@@ -1,6 +1,6 @@
 # Aşit Pi (damn you net neutrality)
 
-Embeded linux built on Yocto for Raspberry Pi, built and configured to run a fullscreen webkit browser, while celebrating the ever beloved  anti net neutrality A(sh)it Pi ( no relations to beloved killer of net neutrality Ajit Pai )
+Pronounced "A Shit Pie" Embeded linux is built on Yocto for Raspberry Pi, built and configured to run a fullscreen webkit browser and celebrating the death of net neutrality and everything that is good. ( no relations to beloved killer of net neutrality Mr. Ajit Pai )
 
 
 ![Logo](https://xn--aitpi-jdb.com/logo.png)
