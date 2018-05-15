@@ -9,6 +9,8 @@ sources/
 meta-*/
 !meta-skeleton
 !meta-selftest
+!meta-raspberrypi
+!meta-wpe
 hob-image-*.bb
 *.swp
 *.orig

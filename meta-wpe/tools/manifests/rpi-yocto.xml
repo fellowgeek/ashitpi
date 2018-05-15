@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+  <remote name="openembedded" fetch="git://git.openembedded.org/" />
+  <remote name="yocto" fetch="git://git.yoctoproject.org/" />
+  <remote name="webplatformforembedded" fetch="git://github.com/webplatformforembedded" />
+  <default remote="openembedded" revision="master" />
+
+  <project name="meta-openembedded" remote="openembedded" path="meta-openembedded" revision="rocko" />
+  <project name="poky" remote="yocto" path="poky" revision="rocko" />
+  <project name="meta-raspberrypi" remote="yocto" path="meta-raspberrypi" revision="rocko" />
+  <project name="meta-wpe" remote="webplatformforembedded" path="meta-wpe" revision="rocko" />
+
+</manifest>
