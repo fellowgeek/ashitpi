@@ -1,10 +1,13 @@
 # Aşit Pi (damn you net neutrality)
 
-Pronounced "A Shit Pie" Embeded linux is built on Yocto for Raspberry Pi, built and configured to run a fullscreen webkit browser and celebrating the death of net neutrality and everything that is good. ( no relations to beloved killer of net neutrality Mr. Ajit Pai )
-
+Pronounced "A Shit Pie" is an embeded linux distribution built on Yocto for Raspberry Pi, built and configured to run a fullscreen webkit browser, celebrating the death of net neutrality and everything that is good. ( no relations to our beloved killer of net neutrality Mr. Ajit Pai )
 
 ![Logo](https://xn--aitpi-jdb.com/logo.png)
 
+
+For more information just search google: 
+
+https://www.google.com/search?q=shit+pie&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjQ7--h3YfbAhWD4IMKHWXsCesQ_AUICigB&biw=1914&bih=1000
 
 ## Built-in packages:
 
