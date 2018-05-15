@@ -11,6 +11,7 @@ meta-*/
 !meta-selftest
 !meta-raspberrypi
 !meta-wpe
+!meta-openembedded
 hob-image-*.bb
 *.swp
 *.orig
