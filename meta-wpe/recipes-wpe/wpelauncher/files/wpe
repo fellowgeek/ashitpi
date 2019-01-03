@@ -8,16 +8,16 @@ export WPE_SHELL_COOKIE_STORAGE=1
 export GST_GL_WINDOW=dummy
 
 # Use cairo noaa compositor
-export CAIRO_GL_COMPOSITOR=noaa
+export CAIRO_GL_COMPOSITOR=aa
 
 # WebInspector
-export WEBKIT_INSPECTOR_SERVER=0.0.0.0:9998
+#export WEBKIT_INSPECTOR_SERVER=0.0.0.0:9998
 
 # FPS
 #export WPE_THREADED_COMPOSITOR_FPS=1
 
 # RPI mouse support
-#export WPE_BCMRPI_CURSOR=1
+export WPE_BCMRPI_CURSOR=1
 
 # RPI touch support
 #export WPE_BCMRPI_TOUCH=1
