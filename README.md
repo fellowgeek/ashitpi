@@ -2,12 +2,14 @@
 
 Pronounced "A(Sh)it Pie" is an embedded linux distribution built on Yocto for Raspberry Pi, built and configured to run a fullscreen webkit browser, while celebrating the death of net neutrality and everything that is good. ( no relations to our beloved killer of net neutrality Mr. Ajit Pai )
 
-![Logo](https://xn--aitpi-jdb.com/logo.png)
+<img src="https://erfan.me/assets/images/ashit-pi-logo.png" />
 
 
 For more information just search google: 
 
 https://www.google.com/search?q=shit+pie&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjQ7--h3YfbAhWD4IMKHWXsCesQ_AUICigB&biw=1914&bih=1000
+
+<img src="https://media.giphy.com/media/kpVKlToAXYcZW/giphy.gif" />
 
 ## Built-in packages:
 
