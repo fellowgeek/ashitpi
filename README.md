@@ -4,13 +4,6 @@ Pronounced "A(Sh)it Pie" is an embedded linux distribution built on Yocto for Ra
 
 <img src="https://erfan.me/assets/images/ashit-pi-logo.png" />
 
-
-For more information just search google: 
-
-https://www.google.com/search?q=shit+pie&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjQ7--h3YfbAhWD4IMKHWXsCesQ_AUICigB&biw=1914&bih=1000
-
-<img src="https://media.giphy.com/media/kpVKlToAXYcZW/giphy.gif" />
-
 ## Built-in packages:
 
 wpe, git, tmux, mc, cron, curl, python, ntp, bluez5, wiringpi, htop, tzdata, wpa-supplicant, openssh, openssh-sftp-server, openssl, iptables, dhcp-server, bridge-utils, i2c-tools
